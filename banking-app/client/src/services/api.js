@@ -334,9 +334,4 @@ class ApiService {
   }
 }
 
-<<<<<<< HEAD
 export const apiService = new ApiService();
-
-=======
-export const apiService = new ApiService();
->>>>>>> 1bf951f (Describe what you changed)
